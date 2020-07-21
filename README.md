@@ -5,7 +5,11 @@ I'm not sure on reading xlsx where the data is in the different sequences in the
 
 
 code:
+
+
 Exercise1 is written in Scala :- SparkScalaExercise/src/main/scala/Exercises/Exercise1.scala
+
+
 Exercise2 is written in Spark - Scala (DF) :- SparkScalaExercise/src/main/scala/Exercises/Exercise2.scala
 
 
