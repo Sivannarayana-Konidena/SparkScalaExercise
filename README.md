@@ -5,3 +5,5 @@ I'm not sure on reading xlsx where the data is in the different sequences in the
 
 Exercise1 is written in Scala
 Exercise2 is written in Spark - Scala (DF)
+
+finalData.csv is the output saved in csv format ('|') sperated.
